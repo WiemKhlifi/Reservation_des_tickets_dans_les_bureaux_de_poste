@@ -1,0 +1,190 @@
+# depslib dependency file v1.0
+1619733014 source:c:\users\khlif\downloads\sem2\poo\projet\try.cpp
+	<fstream>
+	<iostream>
+	<string>
+
+1620334565 source:c:\users\khlif\downloads\sem2\poo\projet\projet\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"Functions.h"
+
+1619732845 c:\users\khlif\downloads\sem2\poo\projet\projet\client.h
+	<iostream>
+	<string>
+
+1619826336 source:c:\users\khlif\downloads\sem2\poo\projet\projet\client.cpp
+
+1620343515 source:c:\users\khlif\downloads\sem2\poo\projet\projet\functions.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<ctime>
+	<vector>
+	<math.h>
+	"Functions.h"
+
+1620334565 c:\users\khlif\downloads\sem2\poo\projet\projet\functions.h
+	<iostream>
+	<string>
+	<fstream>
+	<ctime>
+	<vector>
+
+1621281424 source:c:\users\khlif\downloads\ii1a\sem2\poo\projet\projet\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"Functions.h"
+
+1621272695 c:\users\khlif\downloads\ii1a\sem2\poo\projet\projet\functions.h
+	<iostream>
+	<string>
+	<fstream>
+	<ctime>
+	<vector>
+
+1621281722 source:c:\users\khlif\downloads\ii1a\sem2\poo\projet\projet\functions.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<ctime>
+	<vector>
+	<map>
+	<algorithm>
+	<math.h>
+	"Functions.h"
+
+1621617217 source:c:\users\khlif\downloads\ii1a\projet\projet\functions.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<ctime>
+	<vector>
+	<map>
+	<algorithm>
+	<math.h>
+	"Functions.h"
+
+1621556108 c:\users\khlif\downloads\ii1a\projet\projet\functions.h
+	<iostream>
+	<string>
+	<fstream>
+	<ctime>
+	<vector>
+
+1621554222 source:c:\users\khlif\downloads\ii1a\projet\projet\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"Functions.h"
+	"Client.h"
+	"Admin.h"
+
+1621530807 source:c:\users\khlif\downloads\ii1a\projet\projet\admin.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<ctime>
+	<vector>
+	<map>
+	<algorithm>
+	<math.h>
+	"Functions.h"
+	"Admin.h"
+
+1621555415 c:\users\khlif\downloads\ii1a\projet\projet\admin.h
+	<iostream>
+	<string>
+	<fstream>
+	<ctime>
+	<vector>
+
+1621590268 source:c:\users\khlif\downloads\ii1a\projet\projet\client.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<ctime>
+	<vector>
+	<map>
+	<algorithm>
+	<math.h>
+	"Functions.h"
+	"Client.h"
+
+1621555605 c:\users\khlif\downloads\ii1a\projet\projet\client.h
+	<iostream>
+	<string>
+	<fstream>
+	<ctime>
+	<vector>
+
+1621530807 source:c:\users\khlif\downloads\ii1a\projet\projet c++\code source\admin.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<ctime>
+	<vector>
+	<map>
+	<algorithm>
+	<math.h>
+	"Functions.h"
+	"Admin.h"
+
+1621556108 c:\users\khlif\downloads\ii1a\projet\projet c++\code source\functions.h
+	<iostream>
+	<string>
+	<fstream>
+	<ctime>
+	<vector>
+
+1621555415 c:\users\khlif\downloads\ii1a\projet\projet c++\code source\admin.h
+	<iostream>
+	<string>
+	<fstream>
+	<ctime>
+	<vector>
+
+1621590268 source:c:\users\khlif\downloads\ii1a\projet\projet c++\code source\client.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<ctime>
+	<vector>
+	<map>
+	<algorithm>
+	<math.h>
+	"Functions.h"
+	"Client.h"
+
+1621555605 c:\users\khlif\downloads\ii1a\projet\projet c++\code source\client.h
+	<iostream>
+	<string>
+	<fstream>
+	<ctime>
+	<vector>
+
+1621617217 source:c:\users\khlif\downloads\ii1a\projet\projet c++\code source\functions.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<ctime>
+	<vector>
+	<map>
+	<algorithm>
+	<math.h>
+	"Functions.h"
+
+1621554222 source:c:\users\khlif\downloads\ii1a\projet\projet c++\code source\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"Functions.h"
+	"Client.h"
+	"Admin.h"
+
